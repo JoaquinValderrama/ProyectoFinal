@@ -1,0 +1,39 @@
+.form-container{
+    width: 312px;
+    padding: auto;
+}
+
+.forget-a{
+    text-decoration: none;
+    /* font-size: 16px; */
+    /* padding: 0; */
+}
+
+.cont-izq{
+    background-color: rgba(24, 134, 208, 0.975);
+}
+
+.btn-ingreso .btn{
+    width: 100%;
+    border-radius: 25px;
+}
+
+.img-iz{
+    width:30vw;
+}
+
+.modal-dialog{
+    overflow-y: initial !important
+}
+
+.modal-body{
+    height: 40vh;
+    overflow-y: auto;
+}
+
+@media (max-width:992px) {
+    
+    #col-iz{
+        display: none!important;
+    }
+}
